@@ -27,3 +27,6 @@
 - ClothingFit: 5-core
 - MovieLens1M: 10-core
 - Yelp
+
+# Note
+Will be update upon the acceptance of the paper.
