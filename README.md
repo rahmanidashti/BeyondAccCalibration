@@ -1,4 +1,4 @@
-# ‌Beyond-Accuracy-Oriented Calibration Recommendation
+# ‌Personalised Beyond-accuracy Calibration in Recommendation
 
 ## Dataset Preprocessing Pipeline
 
